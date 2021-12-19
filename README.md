@@ -1,4 +1,4 @@
-# 
+# Purchasing Analysis via Pandas Library
 
 This repository brings a python pandas solution for analysing the data of a fantasy game named Heroes of Pymoli.
 
